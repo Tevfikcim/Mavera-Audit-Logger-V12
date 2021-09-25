@@ -7,6 +7,7 @@
 
 - `settings.json` dosyamıza girip önce tokeni giriyoruz, ardından `owner` yazan yere kendi ID'mizi yazıyoruz.
 -  Footer bölümü hem embed mesajının altında gözükecek mesaj, hem de botun durumunda yazacak şeydir.
+-  `audit-log` diye bir kanal açarsanız bot oraya mesaj atacak!
 -  Bottaki token geçersiz, boşuna girip bir yerleri vurmayı denemeyin :)
 
 # Hangi İntentler Eksik, Sana Nasıl Ulaşabilirim?
