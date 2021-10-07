@@ -1,7 +1,7 @@
-const dcxd = require("discord.js");
+const maveraWasHEre = require("discord.js");
 const { MessageEmbed } = require("discord.js")
-const client = new dcxd.Client()
-const client2 = new dcxd.Client()
+const client = new maveraWasHere.Client()
+const client2 = new maveraWasHere.Client()
 const ayarlar = require("./settings.json")
 const request = require("request")
 let embed = new MessageEmbed().setFooter(ayarlar.footer).setTimestamp().setColor("PURPLE")
