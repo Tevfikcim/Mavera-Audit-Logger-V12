@@ -1,4 +1,4 @@
-const maveraWasHEre = require("discord.js");
+const maveraWasHere = require("discord.js");
 const { MessageEmbed } = require("discord.js")
 const client = new maveraWasHere.Client()
 const client2 = new maveraWasHere.Client()
